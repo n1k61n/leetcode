@@ -5,7 +5,7 @@
 
 int main()
 {   
-    int i = 123;
-    printf("%d\n", reverse(i));
+    int nums[] = {3,2,1,0,4};
+    printf("%s\n",(canJump(nums, 5)) ? "True" : "False");
     return 0;
 }
