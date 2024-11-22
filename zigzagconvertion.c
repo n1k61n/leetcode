@@ -2,7 +2,6 @@
 #include <string.h>
 
 
-
 char* convert(char* s, int numRows) {
     int index=0;
     int i=0;
